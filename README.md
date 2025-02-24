@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **python,html,css,javascript,sql,django**
 
-- 💬 Ask me about **python,sql,javascript**
+- 💬 Ask me about **python,sql,javascript,react,node js**
 
 - 📫 How to reach me **syamdupili@gmail.com**
 
